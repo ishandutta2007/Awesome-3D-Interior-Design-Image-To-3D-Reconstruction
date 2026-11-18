@@ -239,3 +239,12 @@ Star the repo if you find it useful!
 
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-3D-Interior-Design-Image-To-3D-Reconstruction&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-3D-Interior-Design-Image-To-3D-Reconstruction_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-3D-Interior-Design-Image-To-3D-Reconstruction_growth.svg">
+  </picture>
+</a>

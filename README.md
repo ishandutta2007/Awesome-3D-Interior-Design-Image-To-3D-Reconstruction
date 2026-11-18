@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-3D-Interior-Design-Image-To-3D-Reconstruction/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-3D-Interior-Design-Image-To-3D-Reconstruction?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-3D-Interior-Design-Image-To-3D-Reconstruction/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-3D-Interior-Design-Image-To-3D-Reconstruction?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-3D-Interior-Design-Image-To-3D-Reconstruction/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-3D-Interior-Design-Image-To-3D-Reconstruction?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-3D-Interior-Design-Image-To-3D-Reconstruction/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -65,9 +65,9 @@ The table below catalogs premier commercial SaaS solutions for space planning, 2
 
 ## 💻 Open-Source GitHub Projects
 
-The following open-source frameworks, neural reconstruction systems, CAD/BIM workbenches, and WebGL floor-plan engines are sorted in descending order by **GitHub Star Count**:
+The following open-source frameworks, neural reconstruction systems, CAD/BIM workbenches, and WebGL floor-plan engines are sorted in descending order by **GitHub Stars_Count**:
 
-| Repository & Stargazers Link | GitHub Stars | Architecture & Focus | License |
+| Repository & Stargazers Link | GitHub_Stars | Architecture & Focus | License |
 | :--- | :--- | :--- | :--- |
 | **[mrdoob/three.js](https://github.com/mrdoob/three.js)** [![Stars](https://img.shields.io/github/stars/mrdoob/three.js?style=social&color=white)](https://github.com/mrdoob/three.js/stargazers) | **118,800+** | JavaScript/WebGL 3D Library powering modern browser-native architectural floor-plan walkthroughs, PBR interior rendering, and interactive model inspection. | `MIT` |
 | **[FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)** [![Stars](https://img.shields.io/github/stars/FreeCAD/FreeCAD?style=social&color=white)](https://github.com/FreeCAD/FreeCAD/stargazers) | **35,500+** | Parametric 3D CAD/BIM modeler featuring dedicated BIM and Arch workbenches for technical 2D/3D floor plans, wall framing, windows, and IFC imports/exports. | `LGPL-2.0+` |
@@ -124,7 +124,7 @@ Contributions to this list are warmly welcomed! Help keep this ecosystem compreh
 1. **Fork** this repository.
 2. Add or update entries in `README.md` following the established table formats.
    - For **SaaS platforms**, include exact pricing tiers, explicit free tier limits, and verifiable company size/revenue estimates.
-   - For **Open-source projects**, include the exact GitHub repository link, star badge, architecture focus, and license.
+   - For **Open-source projects**, include the exact GitHub repository link, Stars_Badge, architecture focus, and license.
 3. Keep descriptions factual, concise, and neutral.
 4. **Submit a Pull Request** with a brief summary of the additions.
 
@@ -150,3 +150,12 @@ Your support enables continuous updates and verification of new spatial AI model
 
 ##  Star History
 [![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-3D-Interior-Design-Image-To-3D-Reconstruction&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-3D-Interior-Design-Image-To-3D-Reconstruction&type=date&legend=top-left)
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-3D-Interior-Design-Image-To-3D-Reconstruction&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-3D-Interior-Design-Image-To-3D-Reconstruction_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-3D-Interior-Design-Image-To-3D-Reconstruction_growth.svg">
+  </picture>
+</a>
